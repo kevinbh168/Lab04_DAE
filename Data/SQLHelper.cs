@@ -13,7 +13,7 @@ namespace Data
 
 
         public static string Connection { get; } = "Data Source=sql5047.site4now.net; " +
-                                                   "Initial Catalog=DB_A5A76F_kevindev20; User ID=DB_A5A76F_kevindev20_admin ; Password=Developer20";
+                                                   "Initial Catalog=DB_A5A76F_kevindev20; User ID=DB_A5A76F_kevindev20_admin ; Password=";
         /// <summary> 
         /// Set the connection, command, and then execute the command with non query. 
         /// </summary> 
