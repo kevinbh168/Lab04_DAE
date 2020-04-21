@@ -1,0 +1,6 @@
+C:\Users\kevin\source\repos\Semana04_Capas\Entity\bin\Debug\Entity.dll
+C:\Users\kevin\source\repos\Semana04_Capas\Entity\bin\Debug\Entity.pdb
+C:\Users\kevin\source\repos\Semana04_Capas\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Semana04_Capas\Entity\obj\Debug\Entity.dll
+C:\Users\kevin\source\repos\Semana04_Capas\Entity\obj\Debug\Entity.pdb
+C:\Users\kevin\source\repos\Semana04_Capas\Entity\obj\Debug\Entity.csprojAssemblyReference.cache

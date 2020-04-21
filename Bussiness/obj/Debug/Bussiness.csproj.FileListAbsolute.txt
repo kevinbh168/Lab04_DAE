@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\bin\Debug\Data.dll
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\bin\Debug\Entity.dll
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\bin\Debug\Data.pdb
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\bin\Debug\Entity.pdb
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Semana04_Capas\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
